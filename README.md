@@ -33,6 +33,10 @@
 <!-- contributions:start -->
 | Project | Pull request | Status | Lines |
 |---|---|---|---|
+| [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3415](https://github.com/backnotprop/plannotator/pull/3415) Match KaTeX text-mode fonts to the document font | In review | +70 −0 |
+| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [#2609](https://github.com/vercel-labs/agent-browser/pull/2609) Keep proxy credentials out of the daemon environment | In review | +162 −34 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#5846](https://github.com/milind-soni/OpenMausBot/pull/5846) fix(login-fill): find sign-in fields inside open shadow roots | Merged | +111 −13 |
+| [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#5836](https://github.com/milind-soni/OpenMausBot/pull/5836) Match the stored attachment source when a bot's file link resolves the d | Merged | +69 −10 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | [#12270](https://github.com/code-yeongyu/oh-my-openagent/pull/12270) Publish the memory footer once per session bind | In review | +225 −10 |
 | [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) | [#12262](https://github.com/code-yeongyu/oh-my-openagent/pull/12262) Isolate four HOME-dependent tests from the host's real home directory | In review | +20 −5 |
 | [pingdotgg/t3code](https://github.com/pingdotgg/t3code) | [#29511](https://github.com/pingdotgg/t3code/pull/29511) Typeset equations that fail only because of an unescaped percent | Merged | +33 −12 |
