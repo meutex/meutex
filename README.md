@@ -33,6 +33,8 @@
 <!-- contributions:start -->
 | Project | Pull request | Status | Lines |
 |---|---|---|---|
+| [libracoder/kiri](https://github.com/libracoder/kiri) | [#496](https://github.com/libracoder/kiri/pull/496) Add NFS client to the guest kernel for type=nfs volumes | In review | +24 −1 |
+| [libracoder/kiri](https://github.com/libracoder/kiri) | [#484](https://github.com/libracoder/kiri/pull/484) Log the numbers behind a memory kill and attribute it to its operation | In review | +111 −15 |
 | [backnotprop/plannotator](https://github.com/backnotprop/plannotator) | [#3415](https://github.com/backnotprop/plannotator/pull/3415) Match KaTeX text-mode fonts to the document font | In review | +70 −0 |
 | [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | [#2609](https://github.com/vercel-labs/agent-browser/pull/2609) Keep proxy credentials out of the daemon environment | In review | +162 −34 |
 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | [#5846](https://github.com/milind-soni/OpenMausBot/pull/5846) fix(login-fill): find sign-in fields inside open shadow roots | Merged | +111 −13 |
