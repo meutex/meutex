@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="104" viewBox="0 0 840 104" role="img" aria-label="Currently working on: libracoder/kiri #496, Add NFS client to the guest kernel for type=nfs volumes"><title>Currently working on: libracoder/kiri #496, Add NFS client to the guest kernel for type=nfs volumes</title><style>
+@keyframes draw { to { stroke-dashoffset: 0 } }
+@keyframes rise { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+@keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+@keyframes grow { from { transform: scaleX(0) } to { transform: scaleX(1) } }
+@keyframes breathe { 0%, 100% { opacity: .55 } 50% { opacity: 1 } }
+@keyframes twinkle { 0%, 100% { opacity: .15 } 50% { opacity: .9 } }
+@keyframes ping { from { transform: scale(1); opacity: .7 } to { transform: scale(2.8); opacity: 0 } }
+@keyframes blink { 50% { opacity: 0 } }
+.draw { stroke-dasharray: 1; stroke-dashoffset: 1; animation: draw 2.6s cubic-bezier(.4,0,.2,1) forwards }
+.rise { animation: rise .7s cubic-bezier(.2,.8,.2,1) both }
+.fade { animation: fade .6s ease-out both }
+.grow { transform-box: fill-box; transform-origin: left; animation: grow 1.2s cubic-bezier(.4,0,.2,1) both }
+.breathe { animation: breathe 6s ease-in-out infinite }
+.twinkle { animation: twinkle 3.2s ease-in-out infinite }
+.ping { transform-box: fill-box; transform-origin: center; animation: ping 2s cubic-bezier(0,0,.2,1) infinite }
+.typing { transform-box: fill-box; transform-origin: left }
+@media (prefers-reduced-motion: reduce) {
+  .rise, .fade, .grow, .breathe, .twinkle, .ping, .typing, .caret { animation: none }
+  .draw { animation: none; stroke-dashoffset: 0 }
+}
+</style><rect x="0.5" y="0.5" width="839" height="103" rx="14" fill="#ffffff" stroke="#e6e4df"/><circle class="ping" cx="32" cy="32" r="5" fill="#1d5fd6"/><circle cx="32" cy="32" r="5" fill="#1d5fd6"/><text x="48.0" y="36.0" font-family="'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#868d9b" text-anchor="start" letter-spacing="1.4">CURRENTLY WORKING ON</text><text x="816.0" y="36.0" font-family="'Geist Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10.5" font-weight="500" fill="#868d9b" text-anchor="end" >updated Nov 17</text><g class="fade" style="animation-delay:150ms"><text x="24.0" y="66.0" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#14171d" text-anchor="start" >libracoder/kiri #496</text><text x="24.0" y="87.0" font-family="Inter,'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#545b69" text-anchor="start" >Add NFS client to the guest kernel for type=nfs volumes</text></g></svg>
