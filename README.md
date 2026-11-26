@@ -44,8 +44,8 @@
 
 ### In review
 
-- [backnotprop/plannotator #3415](https://github.com/backnotprop/plannotator/pull/3415) Match KaTeX text-mode fonts to the document font  
-  <sub>open since Nov 15 · +70 −0</sub>
+- [AnkurKumarShukla/CareConnect #32](https://github.com/AnkurKumarShukla/CareConnect/pull/32) fix: Add scripts/check-env.sh to verify TESTDBURL is configured  
+  <sub>open since Nov 26 · +10 −0</sub>
 - [vercel-labs/agent-browser #2609](https://github.com/vercel-labs/agent-browser/pull/2609) Keep proxy credentials out of the daemon environment  
   <sub>open since Nov 15 · +162 −34</sub>
 - [code-yeongyu/oh-my-openagent #12270](https://github.com/code-yeongyu/oh-my-openagent/pull/12270) Publish the memory footer once per session bind  
