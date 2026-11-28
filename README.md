@@ -16,13 +16,6 @@
 <!-- contributions:start -->
 ### Merged
 
-**[libracoder/kiri](https://github.com/libracoder/kiri)**
-
-- [#496](https://github.com/libracoder/kiri/pull/496) Add NFS client to the guest kernel for type=nfs volumes  
-  <sub>merged in 8 days through [#961](https://github.com/libracoder/kiri/pull/961), with co-author credit · +24 −1</sub>
-- [#484](https://github.com/libracoder/kiri/pull/484) Log the numbers behind a memory kill and attribute it to its operation  
-  <sub>merged in 6 days through [#803](https://github.com/libracoder/kiri/pull/803), with co-author credit · +111 −15</sub>
-
 **[milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot)**
 
 - [#5846](https://github.com/milind-soni/OpenMausBot/pull/5846) fix(login-fill): find sign-in fields inside open shadow roots  
@@ -74,5 +67,5 @@
 </picture>
 
 <!-- footer:start -->
-<sub>7 merged into 4 projects · 5 in review · rebuilt daily from GitHub. A pull request counts as merged once its code is in a project's main branch, including through a maintainer's pull request that credits me as co-author.</sub>
+<sub>5 merged into 3 projects · 5 in review · rebuilt daily from GitHub. A pull request counts as merged once its code is in a project's main branch, including through a maintainer's pull request that credits me as co-author.</sub>
 <!-- footer:end -->
